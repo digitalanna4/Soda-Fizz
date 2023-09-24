@@ -1,7 +1,11 @@
 <h1>Soda Fizz - School Project</h1>
 
 <h2>Description</h2>
-The assignment was to create a simple interactive program in Java using patterns. I decided on creating a soda cup with carbination. While the programming is running, bubbles will move from the bottom to the top of the cup. When a user moves their mouse back and forth over the cup, the cup starts rocking and the soda creates fizz. If the user stops moving their mouse, the fizz will slowly disappear.
+The assignment was to create a simple interactive program in Java using patterns. The goal of this project was to make a responsive interation according to input from the user, and to do so without using images or other outside resources.
+<br />
+<br />
+I decided on creating a soda cup with carbination. While the programming is running, bubbles will move from the bottom to the top of the cup. When a user moves their mouse back and forth over the cup, the cup starts rocking and the soda creates fizz. If the user stops moving their mouse, the fizz will slowly disappear.
+
 <br />
 
 
